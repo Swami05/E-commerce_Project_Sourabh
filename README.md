@@ -32,6 +32,6 @@ This project aims to identify key factors leading to product returns in an e-com
 - Project Report (PDF)
 
 ## 👤 Author
-*Name*: SOURABH
-*College*: Arya College of Engineering and IT
-*Internship Role*: Data Analyst
+> *Name*: SOURABH
+> *College*: Arya College of Engineering and IT
+> *Internship Role*: Data Analyst
